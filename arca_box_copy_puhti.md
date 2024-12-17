@@ -1,6 +1,6 @@
 # ARCA_BOX copy on Puhti
 
-There is an installed copy of ARCA_box on CSC Puhti server. If you have access to the project_2004647 you can use this copy.
+There is an installed copy of ARCA_box on CSC Puhti server. If you have access to the project_2004647 you can use this copy.  **Note** the source code of this copy has been modified and there is no warranty for the correctness of the output.
 
 Useful links: 
 - [ARCA_BOX Introduction](https://www.helsinki.fi/en/researchgroups/multi-scale-modelling/arca)
