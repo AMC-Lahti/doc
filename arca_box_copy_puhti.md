@@ -7,7 +7,7 @@ Useful links:
 - [ARCA_BOX documentation](https://wiki.helsinki.fi/xwiki/bin/view/arca/ARCA%20online%20manual/)
 - [ARCA_BOX source code](https://version.helsinki.fi/amg/arca-box)
 
-
+## Command line interface
 ### 1. Connect to csc
 Refer to [CSC documentation](https://docs.csc.fi/computing/connecting/) on ssh connection
 ```
@@ -33,7 +33,7 @@ source venv_arcabox/bin/activate
 ./arcabox.exe
 ```
 
-### Use GUI
+## Graphic interface
 To use GUI, X11 server, for example XQuartz on macOS, should be used to connect Puhti from your laptop.
 Then the 1st step:
 ```
