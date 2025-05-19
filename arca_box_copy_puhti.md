@@ -35,15 +35,11 @@ source venv_arcabox/bin/activate
 
 ### Use GUI
 To use GUI, X11 server, for example XQuartz on macOS, should be used to connect Puhti from your laptop.
-Then in the 1. step:
+Then the 1st step:
 ```
 ssh -X <username>@<host>.csc.fi
 ```
-Then in the 4. step:
+Previous step 2 and 3 are optional because they are included in the script at next step:
 ```
 sh run_arca.sh
-```
-If this doesn't work, try:
-```
-python ModelLib/gui/ARCA_gui.py
 ```
